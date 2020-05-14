@@ -1,3 +1,7 @@
 # MS-Stack-Demo0
 
-This repository is for Microsoft stack related projects that are part of my educational process.
+Practice creating new branches.
+
+Hi Folks,
+
+It's Dan.  I'm most familair with C# and .Net, but eager to learn more UNIX based stuff so I can be a more well rounded developer and leader.
